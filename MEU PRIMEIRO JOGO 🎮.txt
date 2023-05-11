@@ -1,0 +1,46 @@
+MEU PRIMEIRO JOGO 🎮
+
+Como que joga🎮?
+Você deve apertar as setinhas para andar, e o espaço para atirar nos zumbis.
+
+
+Como que vence🏆?
+Quando você eliminar uma quantidade de zumbis sem morrer. Exemplo:(40 zumbis)
+
+Como que perde ✖?
+Quando um zumbi toca em você.
+
+
+DESIGN
+
+Plano de fundo:
+Cenário de Hallowen com um castelo e alguns túmulos.
+
+Personagem:
+Homem com arma
+
+
+Obstáculos:
+Zumbies
+
+
+
+ELEMENTOS
+
+Objetivo:
+Eliminar todos os Zumbis
+    
+Obstáculos:
+Zumbies
+ 
+História:
+    
+Adaptatividade (como fica mais difícil):
+Vai a parecendo cada vez mais zumbis.
+   
+Feedback (como saberei se estou indo bem ou mal):
+Pontuação na parte de cima da tela.
+
+
+
+
